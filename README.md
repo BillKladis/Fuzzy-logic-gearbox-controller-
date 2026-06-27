@@ -40,7 +40,7 @@ This project is a textbook **Mamdani inference system** (Mamdani & Assilian,
 1975), the same structure used in commercial automatic-transmission shift logic:
 
 ```
- crisp inputs ─▶ FUZZIFY ─▶ RULE EVALUATION ─▶ AGGREGATE ─▶ DEFUZZIFY ─▶ crisp output
+ crisp inputs --> FUZZIFY --> RULE EVALUATION --> AGGREGATE --> DEFUZZIFY --> crisp output
    rpm, θ, β       μ(x)        min / max          ∪ (max)     centroid     shift ∈ [-1,1]
 ```
 
