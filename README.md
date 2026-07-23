@@ -19,7 +19,7 @@ shift decision — at the bottom-right.*
 
 ---
 
-## 1. What is fuzzy logic? (the 90-second version)
+## 1. What is fuzzy logic?
 
 Classical (Boolean) logic is *crisp*: an engine speed of 2999 rpm is "not
 high", 3001 rpm "is high". That hard edge is a poor model of how an engineer
